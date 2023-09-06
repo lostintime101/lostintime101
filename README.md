@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey there, I'm Lostin👋
 
-- 🌱 I’m currently grinding DS/Algos, (you know where)
-- 👯 I’m looking to collaborate on interesting projects
+- 👯 Building [something cool](https://github.com/lostintime101/100_builders) for [100 Builders](https://100.builders/) program
+- 🌱 Grinding DS/Algos, (you know where)
 - 📫 How to reach me: lostintime.work
-- ⚡ Interests: Python, Data, CyberSecurity, Blockchain
+- ⚡ Interests: Python, Data, Blockchain, CyberSecurity
