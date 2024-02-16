@@ -1,7 +1,7 @@
-### Hey there, I'm Lostin👋
+### Hey, I'm Lostin👋
 
-- 👯 Currently building [Nostradamus](https://github.com/lostintime101/Nostradamus) as part of the [Backdrop Build](https://backdropbuild.com/) program
-- 🌱 Learning Rust and grinding DS/Algos (you know where)
+- ⚡ Fallen down the Solano rabbithole
+- 🌱 DS/Algo problem enjoyooooor (you know where)
+- 👯 Interests: Blockchain, Rust, CyberSecurity, Python, Data 
 - 📫 Reach me at: lostintime.work
-- ⚡ Interests: Blockchain, Python, Rust, CyberSecurity, Data 
 - 🌏 Location: Thailand, Hua Hin
