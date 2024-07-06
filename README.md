@@ -5,4 +5,3 @@
 - 👯 Interests: Blockchain, CyberSecurity
 - 🪶 Languages: Rust, Python, Typescript
 - 📫 Reach me on Gmail: lostintime101dev
-- 🌏 Location: Thailand, Hua Hin
