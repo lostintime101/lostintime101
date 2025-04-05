@@ -1,7 +1,7 @@
 ### Hey, I'm Lostin👋
 
 - ⚡ Fallen down the Solana rabbithole
+- 👯 Interests: Blockchain, CyberSecurity, Data
 - 🌱 DS/Algo problem enjoyooooor (you know where)
-- 👯 Interests: Blockchain, CyberSecurity
-- 🪶 Languages: Rust, Python, Typescript
+- 🪶 Languages: Python, Typescript, Rust
 - 📫 Reach me on Gmail: lostintime101dev
